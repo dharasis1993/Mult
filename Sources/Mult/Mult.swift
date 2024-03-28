@@ -12,4 +12,8 @@ public class Multply{
         return a * b
     }
     
+    public func simpleMultiply(_ a: Double, _ b: Double) -> Double{
+        return a * b
+    }
+    
 }
